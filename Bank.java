@@ -1,6 +1,5 @@
 package javaproject;
 
-//Bank.java
 import java.util.HashMap;
 
 public class Bank {
