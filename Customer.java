@@ -1,6 +1,6 @@
 package javaproject;
 
-//Customer.java
+
 import java.util.HashMap;
 
 public class Customer {
